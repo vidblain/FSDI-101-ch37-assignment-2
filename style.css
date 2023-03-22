@@ -1,0 +1,69 @@
+/*header*/
+header{
+    width: 70%;
+    background-color: black;
+
+}
+
+/*global style*/
+body{
+    width: 70%;
+    background-color: black;
+    color:white;
+}
+
+main{
+    font-family: 'Lora', serif;
+    color:white;
+    width: 70%;
+}
+
+footer{
+    width: 70%;
+}
+
+
+img.footer{
+    width: 20%;
+    height: 20%;
+}
+p.footer-img{
+    text-align: center;
+}
+/*utilities*/
+p.error{
+    color: aquamarine;
+}
+
+p.footer{
+    text-align: center;
+    text-decoration: overline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-small;
+}
+
+
+h1.vidblain{
+    text-transform: uppercase;
+    text-align: center;
+    color: #0afd5b;
+    letter-spacing: 6px;
+    font-size: 24px;
+    text-shadow: 6px 3px #654321;
+    
+}
+p.title{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 10px;
+
+}
+p.mexicali{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+
